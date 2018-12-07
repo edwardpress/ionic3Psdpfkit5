@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pspdf__annotations_number">
+        <item quantity="zero">Δεν υπάρχουν σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
+        <item quantity="other">%d σχόλια</item>
+    </plurals>
+    <plurals name="pspdf__lines_number">
+        <item quantity="zero">%d γραμμή</item>
+        <item quantity="one">%d γραμμή</item>
+        <item quantity="two">%d γραμμή</item>
+        <item quantity="other">%d γραμμή</item>
+        <item quantity="many">%d γραμμές</item>
+    </plurals>
+    <plurals name="pspdf__pages_number">
+        <item quantity="one">%d σελίδα</item>
+        <item quantity="other">%d σελίδες</item>
+    </plurals>
+    <plurals name="pspdf__search_results_found">
+        <item quantity="zero">Δεν βρέθηκαν αποτελέσματα</item>
+        <item quantity="one">Βρέθηκε %d αποτέλεσμα</item>
+        <item quantity="other">Βρέθηκαν %d αποτελέσματα</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"διάστημα"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="pspdf__action_menu_copy">Αντιγραφή</string>
+    <string name="pspdf__action_menu_speak">Εκφώνηση</string>
+    <string name="pspdf__activity_menu_no_outline">Δεν υπάρχει διάρθρωση</string>
+    <string name="pspdf__activity_menu_outline">Διάρθρωση</string>
+    <string name="pspdf__activity_menu_pagegrid">Πλέγμα</string>
+    <string name="pspdf__activity_menu_search">Αναζήτηση</string>
+    <string name="pspdf__activity_menu_settings">Ρυθμίσεις</string>
+    <string name="pspdf__activity_title_unnamed_document">Ανώνυμο PDF</string>
+    <string name="pspdf__add">Προσθήκη</string>
+    <string name="pspdf__add_bookmark">Προσθήκη σελιδοδείκτη</string>
+    <string name="pspdf__add_link">Προσθήκη συνδέσμου</string>
+    <string name="pspdf__add_page">Προσθήκη σελίδας</string>
+    <string name="pspdf__add_signature">Προσθήκη υπογραφής</string>
+    <string name="pspdf__all">Όλες</string>
+    <string name="pspdf__annotation_copied">Το σχόλιο αντιγράφηκε.</string>
+    <string name="pspdf__annotation_creator_author_name">Όνομα συντάκτη</string>
+    <string name="pspdf__annotation_creator_info_text">Εισαγάγετε το όνομα συντάκτη που θέλετε να χρησιμοποιείτε για τα νέα σχόλια.</string>
+    <string name="pspdf__annotation_cut">Το σχόλιο αποκόπηκε.</string>
+    <string name="pspdf__annotation_editing_embed">Ενσωμάτωση σχολίων</string>
+    <string name="pspdf__annotation_editing_embed_description">Τα σχόλια θα μπορούν να υποστούν επεξεργασία και είναι ενσωματωμένα στο PDF.</string>
+    <string name="pspdf__annotation_editing_flatten">Σχόλια σε επίπεδη δομή</string>
+    <string name="pspdf__annotation_editing_flatten_description">Τα σχόλια αποδίδονται στο PDF και είναι μόνο για ανάγνωση.</string>
+    <string name="pspdf__annotation_editing_ignore">Αγνόηση σχολίων</string>
+    <string name="pspdf__annotation_editing_ignore_description">Το PDF δεν θα περιέχει σχόλια.</string>
+    <string name="pspdf__annotation_list_page">Σελίδα %1$d</string>
+    <string name="pspdf__annotation_pasted">Το σχόλιο επικολλήθηκε.</string>
+    <string name="pspdf__annotation_type_camera">Κάμερα</string>
+    <string name="pspdf__annotation_type_circle">Έλλειψη</string>
+    <string name="pspdf__annotation_type_eraser">Γόμα</string>
+    <string name="pspdf__annotation_type_file">Αρχείο</string>
+    <string name="pspdf__annotation_type_freetext">Κείμενο</string>
+    <string name="pspdf__annotation_type_highlight">Επισήμανση</string>
+    <string name="pspdf__annotation_type_ink">Μελάνι</string>
+    <string name="pspdf__annotation_type_line">Γραμμή</string>
+    <string name="pspdf__annotation_type_link">Σύνδεσμος</string>
+    <string name="pspdf__annotation_type_note">Σημείωση</string>
+    <string name="pspdf__annotation_type_polygon">Πολύγωνο</string>
+    <string name="pspdf__annotation_type_polyline">Πολύγραμμο</string>
+    <string name="pspdf__annotation_type_redaction">Απόκρυψη</string>
+    <string name="pspdf__annotation_type_rich_media">Εμπλουτισμένο περιεχόμενο</string>
+    <string name="pspdf__annotation_type_screen">Οθόνη</string>
+    <string name="pspdf__annotation_type_sound">Ήχος</string>
+    <string name="pspdf__annotation_type_square">Ορθογώνιο</string>
+    <string name="pspdf__annotation_type_squiggly">Κυματιστό</string>
+    <string name="pspdf__annotation_type_stamp">Σφραγίδα</string>
+    <string name="pspdf__annotation_type_strikeout">Διακριτή διαγραφή</string>
+    <string name="pspdf__annotation_type_underline">Υπογράμμιση</string>
+    <string name="pspdf__annotations">Σχόλια</string>
+    <string name="pspdf__bookmarks">Σελιδοδείκτες</string>
+    <string name="pspdf__cancel">Ακύρωση</string>
+    <string name="pspdf__certificate">Πιστοποιητικό</string>
+    <string name="pspdf__close">Κλείσιμο</string>
+    <string name="pspdf__color_blue">Μπλε</string>
+    <string name="pspdf__color_green">Πράσινο</string>
+    <string name="pspdf__color_orange">Πορτοκαλί</string>
+    <string name="pspdf__color_pink">Ροζ</string>
+    <string name="pspdf__color_red">Κόκκινο</string>
+    <string name="pspdf__color_yellow">Κίτρινο</string>
+    <string name="pspdf__copy">Αντιγραφή</string>
+    <string name="pspdf__create_link">Δημιουργία συνδέσμου</string>
+    <string name="pspdf__create_stamp">Δημιουργία σφραγίδας</string>
+    <string name="pspdf__current_page">Τρέχουσα σελίδα (%1$d)</string>
+    <string name="pspdf__custom_stamp">Προσαρμογή</string>
+    <string name="pspdf__custom_value">Προσαρμοσμένη τιμή</string>
+    <string name="pspdf__custom_value_hint">Πληκτρολογήστε τιμή ή επιλέξτε από τη λίστα</string>
+    <string name="pspdf__cut">Αποκοπή</string>
+    <string name="pspdf__date_switch">Ημερομηνία</string>
+    <string name="pspdf__default_values">Προεπιλεγμένες τιμές</string>
+    <string name="pspdf__delete">Διαγραφή</string>
+    <string name="pspdf__delete_comment">Διαγραφή σχολίου</string>
+    <string name="pspdf__delete_pages">Διαγραφή σελίδων</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_invalid">Η αλυσίδα πιστοποιητικού δεν είναι έγκυρη.</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_not_provided">Δεν ήταν δυνατή η επαλήθευση της αλυσίδας πιστοποιητικού, επειδή δεν δόθηκε κανένα αξιόπιστο κλειδί.</string>
+    <string name="pspdf__digital_signature_error_integrity_check">Γενική αποτυχία κατά την απόπειρα καθορισμού της ακεραιότητας εγγράφου.</string>
+    <string name="pspdf__digital_signature_error_validation_failed">Απέτυχε η επικύρωση υπογραφής - μη έγκυρη υπογραφή</string>
+    <string name="pspdf__digital_signature_explanation_invalid">Μη έγκυρη υπογραφή — από την υπογραφή του περιεχομένου αυτού του εγγράφου, αυτό έχει τροποποιηθεί, παραβιαστεί ή καταστραφεί.</string>
+    <string name="pspdf__digital_signature_explanation_valid_modified">Η αναθεώρηση που καλύπτεται από αυτή την υπογραφή δεν έχει τροποποιηθεί, ωστόσο έχουν γίνει αλλαγές στο έγγραφο από την υπογραφή του.</string>
+    <string name="pspdf__digital_signature_explanation_valid_not_modified">Η υπογραφή είναι έγκυρη και το περιεχόμενο αυτού του εγγράφου δεν έχει τροποποιηθεί από την υπογραφή του.</string>
+    <string name="pspdf__digital_signature_integrity_self_signed">Επιτυχής ακεραιότητα εγγράφου, αλλά το πιστοποιητικό είναι αυτο-υπογεγραμμένο.</string>
+    <string name="pspdf__digital_signature_invalid">Η υπογραφή δεν είναι έγκυρη.</string>
+    <string name="pspdf__digital_signature_sign">Υπογραφή</string>
+    <string name="pspdf__digital_signature_signed">Υπογεγραμμένο</string>
+    <string name="pspdf__digital_signature_signed_by">Ψηφιακή υπογραφή από {}</string>
+    <string name="pspdf__digital_signature_signed_date">Ημερομηνία: </string>
+    <string name="pspdf__digital_signature_signed_location">Τοποθεσία: </string>
+    <string name="pspdf__digital_signature_signed_reason">Αιτία: </string>
+    <string name="pspdf__digital_signature_signed_with_name">Υπογράφηκε από %1$s στις %2$s, %3$s.</string>
+    <string name="pspdf__digital_signature_signed_with_name_invalid">Γίνεται ισχυρισμός ότι έχει υπογραφεί από %1$s, στις %2$s, %3$s.</string>
+    <string name="pspdf__digital_signature_signed_without_name">Υπογράφηκε %1$s, %2$s.</string>
+    <string name="pspdf__digital_signature_signed_without_name_invalid">Γίνεται ισχυρισμός ότι έχει υπογραφεί %1$s, %2$s.</string>
+    <string name="pspdf__digital_signature_valid">Η υπογραφή είναι έγκυρη.</string>
+    <string name="pspdf__digital_signature_valid_warnings">Η υπογραφή είναι έγκυρη, αλλά υπάρχουν κάποιες προειδοποιήσεις.</string>
+    <string name="pspdf__document_could_not_be_saved">Δεν ήταν δυνατή η αποθήκευση του εγγράφου.</string>
+    <string name="pspdf__document_info">Πληροφορίες εγγράφου</string>
+    <string name="pspdf__document_info_author">Συγγραφέας</string>
+    <string name="pspdf__document_info_changes">Αλλαγές</string>
+    <string name="pspdf__document_info_content">Περιεχόμενο</string>
+    <string name="pspdf__document_info_content_creator">Δημιουργός περιεχομένου</string>
+    <string name="pspdf__document_info_creation_date">Δημιουργία</string>
+    <string name="pspdf__document_info_file_size">Μέγεθος αρχείου</string>
+    <string name="pspdf__document_info_keywords">Λέξεις-κλειδιά</string>
+    <string name="pspdf__document_info_mod_date">Τροποποίηση</string>
+    <string name="pspdf__document_info_not_set">Δεν έχει ρυθμιστεί</string>
+    <string name="pspdf__document_info_number_pf_pages">Αριθμός σελίδων</string>
+    <string name="pspdf__document_info_producer">PDF Producer</string>
+    <string name="pspdf__document_info_subject">Θέμα</string>
+    <string name="pspdf__document_info_title">Τίτλος</string>
+    <string name="pspdf__document_name">Όνομα εγγράφου</string>
+    <string name="pspdf__done">Τέλος</string>
+    <string name="pspdf__duplicate_pages">Διπλότυπο σελίδων</string>
+    <string name="pspdf__edit">Επεξεργασία</string>
+    <string name="pspdf__edit_menu_callout">Λεζάντα</string>
+    <string name="pspdf__edit_menu_color">Χρώμα</string>
+    <string name="pspdf__edit_menu_fill_color">Χρώμα γεμίσματος</string>
+    <string name="pspdf__edit_menu_freetext">Κείμενο</string>
+    <string name="pspdf__edit_menu_highlight">Επισήμανση</string>
+    <string name="pspdf__edit_menu_ink">Μελάνι</string>
+    <string name="pspdf__edit_menu_note">Σημείωση</string>
+    <string name="pspdf__edit_menu_outline_color">Χρώμα περιγράμματος</string>
+    <string name="pspdf__edit_menu_overlay_text">Υπέρθεση κειμένου</string>
+    <string name="pspdf__edit_menu_repeat_overlay_text">Επανάληψη κειμένου</string>
+    <string name="pspdf__edit_menu_squiggly">Κυματιστό</string>
+    <string name="pspdf__edit_menu_strikeout">Διακριτή διαγραφή</string>
+    <string name="pspdf__edit_menu_text_color">Χρώμα κειμένου</string>
+    <string name="pspdf__edit_menu_underline">Υπογράμμιση</string>
+    <string name="pspdf__export_pages">Εξαγωγή σελίδων</string>
+    <string name="pspdf__exporting">Γίνεται εξαγωγή…</string>
+    <string name="pspdf__file_not_available">Συνέβη άγνωστο σφάλμα κατά την προσπάθεια ανοίγματος αυτού του αρχείου.</string>
+    <string name="pspdf__forms_clear_field">Εκκαθάριση πεδίου</string>
+    <string name="pspdf__fragment_password_hint">Εισαγάγετε το συνθηματικό.</string>
+    <string name="pspdf__gallery_item_img_desc">Εικόνα</string>
+    <string name="pspdf__hint_add_your_comment">Προσθήκη του σχολίου σας…</string>
+    <string name="pspdf__import_document">Εισαγωγή εγγράφου</string>
+    <string name="pspdf__invalid_date_time">Μη έγκυρη ημερομηνία/ώρα: βεβαιωθείτε ότι η ημερομηνία/ώρα υπάρχει. Το πεδίο [%1$s] θα πρέπει να ταιριάζει με τη μορφή %2$s</string>
+    <string name="pspdf__invalid_value">Μη έγκυρη τιμή [%1$s]</string>
+    <string name="pspdf__invalid_value_format">Η τιμή που καταχωρίσατε δεν ταιριάζει με τη μορφή του πεδίου [%1$s]</string>
+    <string name="pspdf__invalid_value_greater_than_and_less_than">Μη έγκυρη τιμή: πρέπει να είναι μεγαλύτερη από ή ίση με %1$s και μικρότερη από ή ίση με %2$s.</string>
+    <string name="pspdf__invalid_value_greater_than_or_equal">Μη έγκυρη τιμή: πρέπει να είναι μεγαλύτερη από ή ίση με %1$s.</string>
+    <string name="pspdf__invalid_value_less_than_or_equal">Μη έγκυρη τιμή: πρέπει να είναι μικρότερη από ή ίση με %1$s.</string>
+    <string name="pspdf__landscape">Τοπίο</string>
+    <string name="pspdf__link_annotation_creation_failed">Απέτυχε η δημιουργία σχολίου με σύνδεσμο.</string>
+    <string name="pspdf__link_annotation_creation_parsed_text_error">Το κείμενο που εισήχθηκε δεν μπορεί να μετατραπεί σε Ακέραιο ή URL.</string>
+    <string name="pspdf__link_annotation_successfully_created">Δημιουργήθηκε με επιτυχία σχόλιο με σύνδεσμο.</string>
+    <string name="pspdf__link_destination">Προορισμός συνδέσμου</string>
+    <string name="pspdf__link_enter_page_index_or_url">Εισαγάγετε δείκτη σελίδας ή διεύθυνση http:// για σύνδεσμο με ένα URL.</string>
+    <string name="pspdf__link_page_not_found">Η σελίδα %1$s δεν βρέθηκε</string>
+    <string name="pspdf__loading">Γίνεται φόρτωση</string>
+    <string name="pspdf__more_options">Περισσότερες επιλογές</string>
+    <string name="pspdf__name">Όνομα</string>
+    <string name="pspdf__no_annotations">Δεν υπάρχουν σχόλια</string>
+    <string name="pspdf__no_applications_found">Δεν υπάρχει καμία εγκατεστημένη εφαρμογή που μπορεί να ανοίγει έγγραφα PDF.</string>
+    <string name="pspdf__no_bookmarks">Δεν υπάρχουν σελιδοδείκτες</string>
+    <string name="pspdf__no_signatures">Δεν υπάρχουν υπογραφές</string>
+    <string name="pspdf__note_icon_checkmark">Σημάδι ελέγχου</string>
+    <string name="pspdf__note_icon_circle">Κύκλος</string>
+    <string name="pspdf__note_icon_comment">Σχόλιο</string>
+    <string name="pspdf__note_icon_cross">Σταυρός</string>
+    <string name="pspdf__note_icon_help">Βοήθεια</string>
+    <string name="pspdf__note_icon_insert_text">Εισαγωγή κειμένου</string>
+    <string name="pspdf__note_icon_key">Κλειδί</string>
+    <string name="pspdf__note_icon_new_paragraph">Νέα παράγραφος</string>
+    <string name="pspdf__note_icon_paragraph">Παράγραφος</string>
+    <string name="pspdf__note_icon_right_arrow">Δεξί βέλος</string>
+    <string name="pspdf__note_icon_right_pointer">Δεξιός δείκτης</string>
+    <string name="pspdf__note_icon_star">Αστέρι</string>
+    <string name="pspdf__note_icon_text_note">Σημείωση κειμένου</string>
+    <string name="pspdf__ok">Μετάβαση</string>
+    <string name="pspdf__open">Άνοιγμα</string>
+    <string name="pspdf__open_settings">Άνοιγμα ρυθμίσεων</string>
+    <string name="pspdf__orientation">Προσανατολισμός</string>
+    <string name="pspdf__page_overlay">%1$d από %2$d</string>
+    <string name="pspdf__page_overlay_double_page">%1$d–%2$d από %3$d</string>
+    <string name="pspdf__page_overlay_with_label">%1$s (%2$d από %3$d)</string>
+    <string name="pspdf__page_pattern_dot_5mm">Τελείες 5mm</string>
+    <string name="pspdf__page_pattern_grid_5mm">Πλέγμα 5mm</string>
+    <string name="pspdf__page_pattern_line_5mm">Γραμμές 5mm</string>
+    <string name="pspdf__page_pattern_line_7mm">Γραμμές 7mm</string>
+    <string name="pspdf__page_pattern_none">Κανένα</string>
+    <string name="pspdf__page_range">Εύρος</string>
+    <string name="pspdf__page_size_a4">A4</string>
+    <string name="pspdf__page_size_a5">A5</string>
+    <string name="pspdf__page_size_us_legal">US Legal</string>
+    <string name="pspdf__page_size_us_letter">US Letter</string>
+    <string name="pspdf__page_with_number">Σελίδα %1$d</string>
+    <string name="pspdf__pages">Σελίδες</string>
+    <string name="pspdf__password">Συνθηματικό</string>
+    <string name="pspdf__paste">Επικόλληση</string>
+    <string name="pspdf__permission_rationale_local_access_denied_permanently">Φαίνεται ότι έχετε απορρίψει μόνιμα την πρόσβαση στο σύστημα αρχείων για αυτή την εφαρμογή. Προκειμένου να προβάλετε και να ανοίξετε αρχεία PDF που βρίσκονται αποθηκευμένα στη συσκευή σας, πρέπει να ενεργοποιήσετε χειροκίνητα τα δικαιώματα συστήματος αρχείων μέσω της οθόνης ρυθμίσεων εφαρμογής.</string>
+    <string name="pspdf__picker_font">Γραμματοσειρά</string>
+    <string name="pspdf__picker_line_end">Τέλος γραμμής</string>
+    <string name="pspdf__picker_line_ends_fill_color">Χρώμα έναρξης και τέλους</string>
+    <string name="pspdf__picker_line_start">Αρχή γραμμής</string>
+    <string name="pspdf__picker_line_style">Στιλ γραμμής</string>
+    <string name="pspdf__picker_opacity">Αδιαφάνεια</string>
+    <string name="pspdf__picker_thickness">Πάχος</string>
+    <string name="pspdf__portrait">Πορτρέτο</string>
+    <string name="pspdf__print">Εκτύπωση</string>
+    <string name="pspdf__print_with_annotations">Εκτύπωση με σχόλια</string>
+    <string name="pspdf__print_without_annotations">Εκτύπωση χωρίς σχόλια</string>
+    <string name="pspdf__prompt_delete_annotation">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το σχόλιο</string>
+    <string name="pspdf__redaction_apply_dialog_failed">Δεν ήταν δυνατή η απόκρυψη του εγγράφου.</string>
+    <string name="pspdf__redaction_apply_dialog_message">Η εφαρμογή αποκρύψεων θα αφαιρέσει μόνιμα τις πληροφορίες και δεν μπορεί να αναιρεθεί.</string>
+    <string name="pspdf__redaction_apply_dialog_new_file">Αποθήκευση σε νέο αρχείο</string>
+    <string name="pspdf__redaction_apply_dialog_overwrite_file">Απόκρυψη τρέχοντος εγγράφου</string>
+    <string name="pspdf__redaction_apply_redactions">Εφαρμογή αποκρύψεων</string>
+    <string name="pspdf__redaction_clear_redactions">Εκκαθάριση αποκρύψεων</string>
+    <string name="pspdf__redaction_disable_preview">Απενεργοποίηση προεπισκόπησης απόκρυψης</string>
+    <string name="pspdf__redaction_enable_preview">Ενεργοποίηση προεπισκόπησης απόκρυψης</string>
+    <string name="pspdf__redaction_redact">Απόκρυψη</string>
+    <string name="pspdf__redaction_redacting">Απόκρυψη…</string>
+    <string name="pspdf__redo">Επανάληψη</string>
+    <string name="pspdf__remove">Αφαίρεση</string>
+    <string name="pspdf__reply_accepted_by">Αποδοχή από</string>
+    <string name="pspdf__reply_cancelled_by">Ακύρωση από</string>
+    <string name="pspdf__reply_completed_by">Ολοκλήρωση από</string>
+    <string name="pspdf__reply_rejected_by">Απόρριψη από</string>
+    <string name="pspdf__reply_status_accepted">Έγινε αποδοχή</string>
+    <string name="pspdf__reply_status_cancelled">Ακυρώθηκε</string>
+    <string name="pspdf__reply_status_completed">Ολοκληρώθηκε</string>
+    <string name="pspdf__reply_status_none">Κανένα</string>
+    <string name="pspdf__reply_status_rejected">Έγινε απόρριψη</string>
+    <string name="pspdf__rotate_pages">Περιστροφή σελίδων</string>
+    <string name="pspdf__sample">Δείγμα</string>
+    <string name="pspdf__save">Αποθήκευση</string>
+    <string name="pspdf__save_as">Αποθήκευση ως…</string>
+    <string name="pspdf__saving">Γίνεται αποθήκευση…</string>
+    <string name="pspdf__search_btn_next">Επόμενο</string>
+    <string name="pspdf__search_btn_previous">Προηγούμενο</string>
+    <string name="pspdf__search_complete">Η αναζήτηση ολοκληρώθηκε</string>
+    <string name="pspdf__search_hint">Αναζήτηση</string>
+    <string name="pspdf__search_no_matches">Δεν βρέθηκαν αποτελέσματα</string>
+    <string name="pspdf__search_outline_hint">Αναζήτηση διάρθρωσης</string>
+    <string name="pspdf__search_result_of">%1$d από %2$d</string>
+    <string name="pspdf__set_reply_status">Ρύθμιση κατάστασης</string>
+    <string name="pspdf__settings_menu_auto">Αυτόματα</string>
+    <string name="pspdf__settings_menu_continuous">Συνεχόμενα</string>
+    <string name="pspdf__settings_menu_default">Προεπιλογή</string>
+    <string name="pspdf__settings_menu_double">Διπλά</string>
+    <string name="pspdf__settings_menu_horizontal">Οριζόντια</string>
+    <string name="pspdf__settings_menu_jump">Μεταπήδηση</string>
+    <string name="pspdf__settings_menu_keep_screen_on">Διατήρηση οθόνης ενεργής</string>
+    <string name="pspdf__settings_menu_night">Νύκτα</string>
+    <string name="pspdf__settings_menu_page_layout">Διάταξη σελίδας</string>
+    <string name="pspdf__settings_menu_page_transition">Μετάβαση σελίδας</string>
+    <string name="pspdf__settings_menu_scroll_direction">Κατεύθυνση κύλισης</string>
+    <string name="pspdf__settings_menu_single">Μονή</string>
+    <string name="pspdf__settings_menu_theme">Θέμα</string>
+    <string name="pspdf__settings_menu_vertical">Κατακόρυφα</string>
+    <string name="pspdf__share">Κοινή χρήση</string>
+    <string name="pspdf__sign">Υπογραφή</string>
+    <string name="pspdf__signature">Υπογραφή</string>
+    <string name="pspdf__signature_sign_here">Παρακαλώ υπογράψτε εδώ</string>
+    <string name="pspdf__signatures">Υπογραφές</string>
+    <string name="pspdf__size">Μέγεθος</string>
+    <string name="pspdf__stamp_accepted">Έγινε αποδοχή</string>
+    <string name="pspdf__stamp_approved">Εγκρίθηκε</string>
+    <string name="pspdf__stamp_as_is">Ως έχει</string>
+    <string name="pspdf__stamp_completed">Ολοκληρώθηκε</string>
+    <string name="pspdf__stamp_confidential">Εμπιστευτικό</string>
+    <string name="pspdf__stamp_departmental">Τμηματικό</string>
+    <string name="pspdf__stamp_draft">Πρόχειρο</string>
+    <string name="pspdf__stamp_experimental">Πειραματικό</string>
+    <string name="pspdf__stamp_expired">Έληξε</string>
+    <string name="pspdf__stamp_final">Τελικό</string>
+    <string name="pspdf__stamp_for_comment">Για σχολιασμό</string>
+    <string name="pspdf__stamp_for_public_release">Για έκδοση στο κοινό</string>
+    <string name="pspdf__stamp_information_only">Πληροφορίες μόνο</string>
+    <string name="pspdf__stamp_initial_here">Αρχικά εδώ</string>
+    <string name="pspdf__stamp_not_approved">Δεν έχει εγκριθεί</string>
+    <string name="pspdf__stamp_not_for_public_release">Δεν προορίζεται για έκδοση στο κοινό</string>
+    <string name="pspdf__stamp_preliminary_results">Προκαταρκτικά αποτελέσματα</string>
+    <string name="pspdf__stamp_rejected">Έγινε απόρριψη</string>
+    <string name="pspdf__stamp_revised">Έγινε αναθεώρηση</string>
+    <string name="pspdf__stamp_sign_here">Υπογραφή εδώ</string>
+    <string name="pspdf__stamp_sold">Πωλήθηκε</string>
+    <string name="pspdf__stamp_text">Κείμενο σφραγίδας</string>
+    <string name="pspdf__stamp_top_secret">Άκρως απόρρητο</string>
+    <string name="pspdf__stamp_void">Άκυρο</string>
+    <string name="pspdf__stamp_witness">Μάρτυρας</string>
+    <string name="pspdf__store_signature">Αποθήκευση υπογραφής</string>
+    <string name="pspdf__text_copied_to_clipboard">Το κείμενο αντιγράφηκε στο πρόχειρο.</string>
+    <string name="pspdf__time_switch">Ώρα</string>
+    <string name="pspdf__tts_not_available">Δεν είναι διαθέσιμη η υπηρεσία κειμένου σε ομιλία. Βεβαιωθείτε ότι έχετε ενεργή σύνδεση στο internet ή μηχανή Google κειμένου σε ομιλία εγκατεστημένη και ενεργοποιημένη στη συσκευή σας.</string>
+    <string name="pspdf__undo">Αναίρεση</string>
+    <string name="pspdf__unit_pt">%1$s στ.</string>
+    <string name="pspdf__unnamed_image_document">Έγγραφο εικόνας χωρίς όνομα</string>
+    <string name="pspdf__use_document_size">Χρήση μεγέθους εγγράφου</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

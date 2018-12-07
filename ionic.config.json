@@ -1,5 +1,7 @@
 {
   "name": "pspdf",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }

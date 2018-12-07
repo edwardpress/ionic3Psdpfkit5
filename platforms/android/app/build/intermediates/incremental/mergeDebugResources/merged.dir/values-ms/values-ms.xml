@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pspdf__annotations_number">
+        <item quantity="zero">Tiada Anotasi</item>
+        <item quantity="one">%d Anotasi</item>
+        <item quantity="other">%d Anotasi</item>
+    </plurals>
+    <plurals name="pspdf__lines_number">
+        <item quantity="zero">%d Baris</item>
+        <item quantity="one">%d Baris</item>
+        <item quantity="two">%d Baris</item>
+        <item quantity="other">%d Baris</item>
+    </plurals>
+    <plurals name="pspdf__pages_number">
+        <item quantity="one">%d Halaman</item>
+        <item quantity="other">%d Halaman</item>
+    </plurals>
+    <plurals name="pspdf__search_results_found">
+        <item quantity="zero">Tiada padanan dijumpai</item>
+        <item quantity="one">%d padanan dijumpai</item>
+        <item quantity="other">%d padanan dijumpai</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi skrin utama"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"MATI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"padam"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="pspdf__action_menu_copy">Salin</string>
+    <string name="pspdf__action_menu_speak">Sebut</string>
+    <string name="pspdf__activity_menu_no_outline">Tiada Ringkasan</string>
+    <string name="pspdf__activity_menu_outline">Ringkasan</string>
+    <string name="pspdf__activity_menu_pagegrid">Rangkaian</string>
+    <string name="pspdf__activity_menu_search">Cari</string>
+    <string name="pspdf__activity_menu_settings">Seting</string>
+    <string name="pspdf__activity_title_unnamed_document">PDF Tidak Dinamakan</string>
+    <string name="pspdf__add">Tambah</string>
+    <string name="pspdf__add_bookmark">Tambah Penanda</string>
+    <string name="pspdf__add_link">Tambah Pautan</string>
+    <string name="pspdf__add_page">Tambah Halaman</string>
+    <string name="pspdf__add_signature">Tambah Tandatangan</string>
+    <string name="pspdf__all">Semua</string>
+    <string name="pspdf__annotation_copied">Anotasi disalin.</string>
+    <string name="pspdf__annotation_creator_author_name">Nama Pengarang</string>
+    <string name="pspdf__annotation_creator_info_text">Sila masukkan nama pengarang yang anda mahu gunakan bagi anotasi yang baharu dimasukkan.</string>
+    <string name="pspdf__annotation_cut">Anotasi dipotong.</string>
+    <string name="pspdf__annotation_editing_embed">Benam Anotasi</string>
+    <string name="pspdf__annotation_editing_embed_description">Anotasi akan terus boleh diedit dan dibenamkan ke dalam PDF.</string>
+    <string name="pspdf__annotation_editing_flatten">Anotasi Didatarkan</string>
+    <string name="pspdf__annotation_editing_flatten_description">Anotasi dipersembahkan dalam PDF dan adalah baca sahaja.</string>
+    <string name="pspdf__annotation_editing_ignore">Abaikan Anotasi</string>
+    <string name="pspdf__annotation_editing_ignore_description">PDF tidak akan mengandungi sebarang anotasi.</string>
+    <string name="pspdf__annotation_list_page">Halaman %1$d</string>
+    <string name="pspdf__annotation_pasted">Anotasi ditampal.</string>
+    <string name="pspdf__annotation_type_camera">Kamera</string>
+    <string name="pspdf__annotation_type_circle">Elips</string>
+    <string name="pspdf__annotation_type_eraser">Pemadam</string>
+    <string name="pspdf__annotation_type_file">Fail</string>
+    <string name="pspdf__annotation_type_freetext">Teks</string>
+    <string name="pspdf__annotation_type_highlight">Serlahkan</string>
+    <string name="pspdf__annotation_type_ink">Dakwat</string>
+    <string name="pspdf__annotation_type_line">Garis</string>
+    <string name="pspdf__annotation_type_link">Pautan</string>
+    <string name="pspdf__annotation_type_note">Nota</string>
+    <string name="pspdf__annotation_type_polygon">Poligon</string>
+    <string name="pspdf__annotation_type_polyline">Poligaris</string>
+    <string name="pspdf__annotation_type_redaction">Reduksi</string>
+    <string name="pspdf__annotation_type_rich_media">Media Kaya</string>
+    <string name="pspdf__annotation_type_screen">Skrin</string>
+    <string name="pspdf__annotation_type_sound">Bunyi</string>
+    <string name="pspdf__annotation_type_square">Segi Empat Tepat</string>
+    <string name="pspdf__annotation_type_squiggly">Berpintal</string>
+    <string name="pspdf__annotation_type_stamp">Cap</string>
+    <string name="pspdf__annotation_type_strikeout">Lorek</string>
+    <string name="pspdf__annotation_type_underline">Garis Bawah</string>
+    <string name="pspdf__annotations">Anotasi</string>
+    <string name="pspdf__bookmarks">Penanda</string>
+    <string name="pspdf__cancel">Batal</string>
+    <string name="pspdf__certificate">Sijil</string>
+    <string name="pspdf__close">Tutup</string>
+    <string name="pspdf__color_blue">Biru</string>
+    <string name="pspdf__color_green">Hijau</string>
+    <string name="pspdf__color_orange">Oren</string>
+    <string name="pspdf__color_pink">Merah Jambu</string>
+    <string name="pspdf__color_red">Merah</string>
+    <string name="pspdf__color_yellow">Kuning</string>
+    <string name="pspdf__copy">Salin</string>
+    <string name="pspdf__create_link">Cipta Pautan</string>
+    <string name="pspdf__create_stamp">Cipta Cap</string>
+    <string name="pspdf__current_page">Halaman Semasa (%1$d)</string>
+    <string name="pspdf__custom_stamp">Tersuai</string>
+    <string name="pspdf__custom_value">Nilai Tersuai</string>
+    <string name="pspdf__custom_value_hint">Taipkan nilai atau pilih daripada senarai</string>
+    <string name="pspdf__cut">Potong</string>
+    <string name="pspdf__date_switch">Tarikh</string>
+    <string name="pspdf__default_values">Nilai Lalai</string>
+    <string name="pspdf__delete">Padam</string>
+    <string name="pspdf__delete_comment">Padam Komen</string>
+    <string name="pspdf__delete_pages">Padamkan Halaman</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_invalid">Rantai sijil tidak sah.</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_not_provided">Rantai sijil tidak dapat disahkan kerana tiada kunci dipercayai dibekalkan.</string>
+    <string name="pspdf__digital_signature_error_integrity_check">Kegagalan umum semasa cuba menentukan integriti dokumen.</string>
+    <string name="pspdf__digital_signature_error_validation_failed">Pengesahan tandatangan gagal - tandatangan tidak sah</string>
+    <string name="pspdf__digital_signature_explanation_invalid">Tandatangan tidak sah — sejak menandatangani kandungan dokumen ini, ia telah diubah suai, diusik atau rosak.</string>
+    <string name="pspdf__digital_signature_explanation_valid_modified">Semakan yang diliputi oleh tandatangan ini tidak diubah suai, walau bagaimanapun perubahan telah dibuat ke atas dokumen sejak ia ditandatangani.</string>
+    <string name="pspdf__digital_signature_explanation_valid_not_modified">Tandatangan adalah sah dan kandungan dokumen ini tidak diubah suai sejak ia ditandatangani.</string>
+    <string name="pspdf__digital_signature_integrity_self_signed">Integriti dokumen berjaya, tetapi sijil ditandatangani sendiri.</string>
+    <string name="pspdf__digital_signature_invalid">Tandatangan tidak sah.</string>
+    <string name="pspdf__digital_signature_sign">Tandatangan</string>
+    <string name="pspdf__digital_signature_signed">Bertandatangan</string>
+    <string name="pspdf__digital_signature_signed_by">Ditandatangani secara digital oleh {}</string>
+    <string name="pspdf__digital_signature_signed_date">Tarikh:</string>
+    <string name="pspdf__digital_signature_signed_location">Lokasi:</string>
+    <string name="pspdf__digital_signature_signed_reason">Sebab:</string>
+    <string name="pspdf__digital_signature_signed_with_name">Ia telah ditandatangani oleh %1$s pada %2$s pada jam %3$s.</string>
+    <string name="pspdf__digital_signature_signed_with_name_invalid">Ia mendakwa telah ditandatangani oleh %1$s pada %2$s pada jam %3$s.</string>
+    <string name="pspdf__digital_signature_signed_without_name">Ia ditandatangani pada %1$s pada jam %2$s.</string>
+    <string name="pspdf__digital_signature_signed_without_name_invalid">Ia mendakwa telah ditandatangani pada %1$s pada jam %2$s.</string>
+    <string name="pspdf__digital_signature_valid">Tandatangan adalah sah.</string>
+    <string name="pspdf__digital_signature_valid_warnings">Tandatangan adalah sah tetapi terdapat beberapa amaran.</string>
+    <string name="pspdf__document_could_not_be_saved">Dokumen ini tidak dapat disimpan.</string>
+    <string name="pspdf__document_info">Maklumat Dokumen</string>
+    <string name="pspdf__document_info_author">Pengarang</string>
+    <string name="pspdf__document_info_changes">Perubahan</string>
+    <string name="pspdf__document_info_content">Kandungan</string>
+    <string name="pspdf__document_info_content_creator">Pencipta Kandungan</string>
+    <string name="pspdf__document_info_creation_date">Dicipta</string>
+    <string name="pspdf__document_info_file_size">Saiz Fail</string>
+    <string name="pspdf__document_info_keywords">Kata Kunci</string>
+    <string name="pspdf__document_info_mod_date">Diubah Suai</string>
+    <string name="pspdf__document_info_not_set">Tidak Ditetapkan</string>
+    <string name="pspdf__document_info_number_pf_pages">Bilangan Halaman</string>
+    <string name="pspdf__document_info_producer">Penerbit PDF</string>
+    <string name="pspdf__document_info_subject">Subjek</string>
+    <string name="pspdf__document_info_title">Tajuk</string>
+    <string name="pspdf__document_name">Nama Dokumen</string>
+    <string name="pspdf__done">Selesai</string>
+    <string name="pspdf__duplicate_pages">Menduplikasi Halaman</string>
+    <string name="pspdf__edit">Edit</string>
+    <string name="pspdf__edit_menu_callout">Serlahan</string>
+    <string name="pspdf__edit_menu_color">Warna</string>
+    <string name="pspdf__edit_menu_fill_color">Warna Isian</string>
+    <string name="pspdf__edit_menu_freetext">Teks</string>
+    <string name="pspdf__edit_menu_highlight">Serlahkan</string>
+    <string name="pspdf__edit_menu_ink">Dakwat</string>
+    <string name="pspdf__edit_menu_note">Nota</string>
+    <string name="pspdf__edit_menu_outline_color">Warna Garis Luar</string>
+    <string name="pspdf__edit_menu_overlay_text">Teks Tindanan</string>
+    <string name="pspdf__edit_menu_repeat_overlay_text">Teks Berulang</string>
+    <string name="pspdf__edit_menu_squiggly">Berpintal</string>
+    <string name="pspdf__edit_menu_strikeout">Lorek</string>
+    <string name="pspdf__edit_menu_text_color">Warna Teks</string>
+    <string name="pspdf__edit_menu_underline">Garis Bawah</string>
+    <string name="pspdf__export_pages">Eksport Halaman</string>
+    <string name="pspdf__exporting">Mengeksport…</string>
+    <string name="pspdf__file_not_available">Ralat yang tidak diketahui telah berlaku semasa cuba membuka fail ini.</string>
+    <string name="pspdf__forms_clear_field">Kosongkan Medan</string>
+    <string name="pspdf__fragment_password_hint">Sila masukkan kata laluan.</string>
+    <string name="pspdf__gallery_item_img_desc">Imej</string>
+    <string name="pspdf__hint_add_your_comment">Tambahkan komen anda…</string>
+    <string name="pspdf__import_document">Import Dokumen</string>
+    <string name="pspdf__invalid_date_time">Tarikh/masa tidak sah: sila pastikan tarikh/masa wujud. Medan [%1$s] hendaklah sepadan dengan format %2$s</string>
+    <string name="pspdf__invalid_value">Nilai tidak sah [%1$s]</string>
+    <string name="pspdf__invalid_value_format">Nilai yang dimasukkan tidak sepadan dengan format medan [%1$s]</string>
+    <string name="pspdf__invalid_value_greater_than_and_less_than">Nilai tidak sah: mesti besar daripada atau sama dengan %1$s dan kurang daripada atau sama dengan %2$s.</string>
+    <string name="pspdf__invalid_value_greater_than_or_equal">Nilai tidak sah: mesti besar daripada atau sama dengan %1$s.</string>
+    <string name="pspdf__invalid_value_less_than_or_equal">Nilai tidak sah: mesti kurang daripada atau sama dengan %1$s.</string>
+    <string name="pspdf__landscape">Landskap</string>
+    <string name="pspdf__link_annotation_creation_failed">Penciptaan anotasi pautan gagal.</string>
+    <string name="pspdf__link_annotation_creation_parsed_text_error">Teks yang dimasukkan tidak dapat ditukar menjadi Integer atau URL.</string>
+    <string name="pspdf__link_annotation_successfully_created">Anotasi pautan berjaya dicipta.</string>
+    <string name="pspdf__link_destination">Destinasi Pautan</string>
+    <string name="pspdf__link_enter_page_index_or_url">Masukkan indeks halaman atau alamat http:// untuk memaut kepada URL.</string>
+    <string name="pspdf__link_page_not_found">Halaman %1$s Tidak Ditemui</string>
+    <string name="pspdf__loading">Memuatkan</string>
+    <string name="pspdf__more_options">Lagi pilihan</string>
+    <string name="pspdf__name">Nama</string>
+    <string name="pspdf__no_annotations">Tiada Anotasi</string>
+    <string name="pspdf__no_applications_found">Tiada aplikasi yang telah dipasang yang boleh membuka dokumen PDF.</string>
+    <string name="pspdf__no_bookmarks">Tiada Penanda</string>
+    <string name="pspdf__no_signatures">Tiada Tandatangan</string>
+    <string name="pspdf__note_icon_checkmark">Tanda semak</string>
+    <string name="pspdf__note_icon_circle">Bulatan</string>
+    <string name="pspdf__note_icon_comment">Komen</string>
+    <string name="pspdf__note_icon_cross">Pangkah</string>
+    <string name="pspdf__note_icon_help">Bantuan</string>
+    <string name="pspdf__note_icon_insert_text">Masukkan Teks</string>
+    <string name="pspdf__note_icon_key">Kunci</string>
+    <string name="pspdf__note_icon_new_paragraph">Perenggan Baharu</string>
+    <string name="pspdf__note_icon_paragraph">Perenggan</string>
+    <string name="pspdf__note_icon_right_arrow">Anak Panah Kanan</string>
+    <string name="pspdf__note_icon_right_pointer">Penunjuk Kanan</string>
+    <string name="pspdf__note_icon_star">Bintang</string>
+    <string name="pspdf__note_icon_text_note">Nota Teks</string>
+    <string name="pspdf__ok">Pergi</string>
+    <string name="pspdf__open">Buka</string>
+    <string name="pspdf__open_settings">Buka Tetapan</string>
+    <string name="pspdf__orientation">Orientasi</string>
+    <string name="pspdf__page_overlay">%1$d daripada %2$d</string>
+    <string name="pspdf__page_overlay_double_page">%1$d–%2$d daripada %3$d</string>
+    <string name="pspdf__page_overlay_with_label">%1$s (%2$d daripada %3$d)</string>
+    <string name="pspdf__page_pattern_dot_5mm">Titik 5mm</string>
+    <string name="pspdf__page_pattern_grid_5mm">Grid 5mm</string>
+    <string name="pspdf__page_pattern_line_5mm">Garisan 5mm</string>
+    <string name="pspdf__page_pattern_line_7mm">Garisan 7mm</string>
+    <string name="pspdf__page_pattern_none">Tiada</string>
+    <string name="pspdf__page_range">Julat</string>
+    <string name="pspdf__page_size_a4">A4</string>
+    <string name="pspdf__page_size_a5">A5</string>
+    <string name="pspdf__page_size_us_legal">Undang-undang AS</string>
+    <string name="pspdf__page_size_us_letter">Surat AS</string>
+    <string name="pspdf__page_with_number">Halaman %1$d</string>
+    <string name="pspdf__pages">Halaman</string>
+    <string name="pspdf__password">Kata Laluan</string>
+    <string name="pspdf__paste">Tampal</string>
+    <string name="pspdf__permission_rationale_local_access_denied_permanently">Nampaknya anda telah menafikan akses sistem fail bagi aplikasi ini buat selama-lamanya. Untuk melihat dan membuka fail PDF yang disimpan dalam peranti anda, anda perlu mendayakan kebenaran sistem fail melalui skrin tetapan aplikasi secara manual.</string>
+    <string name="pspdf__picker_font">Fon</string>
+    <string name="pspdf__picker_line_end">Akhir Garis</string>
+    <string name="pspdf__picker_line_ends_fill_color">Warna Mula dan Tamat</string>
+    <string name="pspdf__picker_line_start">Mula Garis</string>
+    <string name="pspdf__picker_line_style">Gaya Garis</string>
+    <string name="pspdf__picker_opacity">Kelegapan</string>
+    <string name="pspdf__picker_thickness">Ketebalan</string>
+    <string name="pspdf__portrait">Potret</string>
+    <string name="pspdf__print">Cetak</string>
+    <string name="pspdf__print_with_annotations">Cetak dengan anotasi</string>
+    <string name="pspdf__print_without_annotations">Cetak tanpa anotasi</string>
+    <string name="pspdf__prompt_delete_annotation">Adakah anda pasti anda ingin memadamkan anotasi ini?</string>
+    <string name="pspdf__redaction_apply_dialog_failed">Dokument tersebut tidak dapat dilakukan reduksi.</string>
+    <string name="pspdf__redaction_apply_dialog_message">Pelaksanaan reduksi akan mengalih keluar maklumat tersebut buat selama-lamanya dan tidak boleh dibuat asal.</string>
+    <string name="pspdf__redaction_apply_dialog_new_file">Simpan ke fail baharu</string>
+    <string name="pspdf__redaction_apply_dialog_overwrite_file">Reduksi pada dokumen semasa</string>
+    <string name="pspdf__redaction_apply_redactions">Laksanakan Reduksi</string>
+    <string name="pspdf__redaction_clear_redactions">Kosongkan Reduksi</string>
+    <string name="pspdf__redaction_disable_preview">Nyahdayakan Pratonton Reduksi</string>
+    <string name="pspdf__redaction_enable_preview">Dayakan Pratonton Reduksi</string>
+    <string name="pspdf__redaction_redact">Reduksi</string>
+    <string name="pspdf__redaction_redacting">Melakukan reduksi…</string>
+    <string name="pspdf__redo">Buat Semula</string>
+    <string name="pspdf__remove">Alih Keluar</string>
+    <string name="pspdf__reply_accepted_by">Diterima oleh</string>
+    <string name="pspdf__reply_cancelled_by">Dibatalkan oleh</string>
+    <string name="pspdf__reply_completed_by">Diselesaikan oleh</string>
+    <string name="pspdf__reply_rejected_by">Ditolak oleh</string>
+    <string name="pspdf__reply_status_accepted">Diterima</string>
+    <string name="pspdf__reply_status_cancelled">Dibatalkan</string>
+    <string name="pspdf__reply_status_completed">Selesai</string>
+    <string name="pspdf__reply_status_none">Tiada</string>
+    <string name="pspdf__reply_status_rejected">Ditolak</string>
+    <string name="pspdf__rotate_pages">Putarkan Halaman</string>
+    <string name="pspdf__sample">Sampel</string>
+    <string name="pspdf__save">Simpan</string>
+    <string name="pspdf__save_as">Simpan Sebagai…</string>
+    <string name="pspdf__saving">Menyimpan…</string>
+    <string name="pspdf__search_btn_next">Seterusnya</string>
+    <string name="pspdf__search_btn_previous">Sebelumnya</string>
+    <string name="pspdf__search_complete">Carian Selesai</string>
+    <string name="pspdf__search_hint">Cari</string>
+    <string name="pspdf__search_no_matches">Tiada padanan dijumpai</string>
+    <string name="pspdf__search_outline_hint">Cari Ringkasan</string>
+    <string name="pspdf__search_result_of">%1$d daripada %2$d</string>
+    <string name="pspdf__set_reply_status">Tetapkan Status</string>
+    <string name="pspdf__settings_menu_auto">Automatik</string>
+    <string name="pspdf__settings_menu_continuous">Berterusan</string>
+    <string name="pspdf__settings_menu_default">Lalai</string>
+    <string name="pspdf__settings_menu_double">Berganda</string>
+    <string name="pspdf__settings_menu_horizontal">Mendatar</string>
+    <string name="pspdf__settings_menu_jump">Lompat</string>
+    <string name="pspdf__settings_menu_keep_screen_on">Pastikan skrin aktif</string>
+    <string name="pspdf__settings_menu_night">Malam</string>
+    <string name="pspdf__settings_menu_page_layout">Tataletak Halaman</string>
+    <string name="pspdf__settings_menu_page_transition">Peralihan Halaman</string>
+    <string name="pspdf__settings_menu_scroll_direction">Arah Skrol</string>
+    <string name="pspdf__settings_menu_single">Tunggal</string>
+    <string name="pspdf__settings_menu_theme">Tema</string>
+    <string name="pspdf__settings_menu_vertical">Menegak</string>
+    <string name="pspdf__share">Kongsi</string>
+    <string name="pspdf__sign">Tandatangan</string>
+    <string name="pspdf__signature">Tandatangan</string>
+    <string name="pspdf__signature_sign_here">Sila tandatangan di sini</string>
+    <string name="pspdf__signatures">Tandatangan</string>
+    <string name="pspdf__size">Saiz</string>
+    <string name="pspdf__stamp_accepted">Diterima</string>
+    <string name="pspdf__stamp_approved">Diluluskan</string>
+    <string name="pspdf__stamp_as_is">Seadanya</string>
+    <string name="pspdf__stamp_completed">Selesai</string>
+    <string name="pspdf__stamp_confidential">Sulit</string>
+    <string name="pspdf__stamp_departmental">Jabatan</string>
+    <string name="pspdf__stamp_draft">Draf</string>
+    <string name="pspdf__stamp_experimental">Eksperimen</string>
+    <string name="pspdf__stamp_expired">Tamat Tempoh</string>
+    <string name="pspdf__stamp_final">Muktamad</string>
+    <string name="pspdf__stamp_for_comment">Untuk Komen</string>
+    <string name="pspdf__stamp_for_public_release">Untuk Edaran Umum</string>
+    <string name="pspdf__stamp_information_only">Maklumat sahaja</string>
+    <string name="pspdf__stamp_initial_here">Parap Di Sini</string>
+    <string name="pspdf__stamp_not_approved">Tidak Diluluskan</string>
+    <string name="pspdf__stamp_not_for_public_release">Bukan Untuk Edaran Umum</string>
+    <string name="pspdf__stamp_preliminary_results">Keputusan Awal</string>
+    <string name="pspdf__stamp_rejected">Ditolak</string>
+    <string name="pspdf__stamp_revised">Disemak</string>
+    <string name="pspdf__stamp_sign_here">Tandatangan Di Sini</string>
+    <string name="pspdf__stamp_sold">Dijual</string>
+    <string name="pspdf__stamp_text">Teks Cap</string>
+    <string name="pspdf__stamp_top_secret">Rahsia Besar</string>
+    <string name="pspdf__stamp_void">Tidak Sah</string>
+    <string name="pspdf__stamp_witness">Saksi</string>
+    <string name="pspdf__store_signature">Simpan Tandatangan</string>
+    <string name="pspdf__text_copied_to_clipboard">Teks disalin ke papan keratan.</string>
+    <string name="pspdf__time_switch">Masa</string>
+    <string name="pspdf__tts_not_available">Perkhidmatan teks ke pertuturan tidak tersedia. Pastikan anda mempunyai sambungan Internet yang aktif atau telah memasang enjin Teks ke pertuturan Google dan didayakan pada peranti anda.</string>
+    <string name="pspdf__undo">Buat Asal</string>
+    <string name="pspdf__unit_pt">%1$s mata</string>
+    <string name="pspdf__unnamed_image_document">Dokumen Imej Tidak Bernama</string>
+    <string name="pspdf__use_document_size">Gunakan Saiz Dokumen</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cari"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

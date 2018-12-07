@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pspdf__annotations_number">
+        <item quantity="zero">沒有註解</item>
+        <item quantity="one">%d個註解</item>
+        <item quantity="other">%d個註解</item>
+    </plurals>
+    <plurals name="pspdf__lines_number">
+        <item quantity="zero">%d 行</item>
+        <item quantity="one">%d 行</item>
+        <item quantity="two">%d 行</item>
+        <item quantity="other">%d 行</item>
+        <item quantity="many">%d 行</item>
+    </plurals>
+    <plurals name="pspdf__pages_number">
+        <item quantity="one">%d頁</item>
+        <item quantity="other">%d頁</item>
+    </plurals>
+    <plurals name="pspdf__search_results_found">
+        <item quantity="zero">找不到配對</item>
+        <item quantity="one">找到%d個配對</item>
+        <item quantity="other">找到%d個配對</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="pspdf__action_menu_copy">複製</string>
+    <string name="pspdf__action_menu_speak">朗讀</string>
+    <string name="pspdf__activity_menu_no_outline">無輪廓</string>
+    <string name="pspdf__activity_menu_outline">中空字</string>
+    <string name="pspdf__activity_menu_pagegrid">格框</string>
+    <string name="pspdf__activity_menu_search">搜尋</string>
+    <string name="pspdf__activity_menu_settings">設定</string>
+    <string name="pspdf__activity_title_unnamed_document">無名PDF</string>
+    <string name="pspdf__add">加入</string>
+    <string name="pspdf__add_bookmark">添加書籤</string>
+    <string name="pspdf__add_link">加入連結</string>
+    <string name="pspdf__add_page">添加頁面</string>
+    <string name="pspdf__add_signature">加上簽名</string>
+    <string name="pspdf__all">全部</string>
+    <string name="pspdf__annotation_copied">已複製註記。</string>
+    <string name="pspdf__annotation_creator_author_name">作者名字</string>
+    <string name="pspdf__annotation_creator_info_text">請為新註釋加入自選的作者名字。</string>
+    <string name="pspdf__annotation_cut">已剪下註記。</string>
+    <string name="pspdf__annotation_editing_embed">嵌入註釋</string>
+    <string name="pspdf__annotation_editing_embed_description">註釋仍然可以編輯，並嵌進PDF中。</string>
+    <string name="pspdf__annotation_editing_flatten">展平註釋</string>
+    <string name="pspdf__annotation_editing_flatten_description">註釋在PDF中呈現，只能讀取。</string>
+    <string name="pspdf__annotation_editing_ignore">不理會註釋</string>
+    <string name="pspdf__annotation_editing_ignore_description">此 PDF 不會包含任何註釋。</string>
+    <string name="pspdf__annotation_list_page">第%1$d頁</string>
+    <string name="pspdf__annotation_pasted">已貼上註記。</string>
+    <string name="pspdf__annotation_type_camera">相機</string>
+    <string name="pspdf__annotation_type_circle">橢圓形</string>
+    <string name="pspdf__annotation_type_eraser">橡皮擦</string>
+    <string name="pspdf__annotation_type_file">檔案</string>
+    <string name="pspdf__annotation_type_freetext">文字</string>
+    <string name="pspdf__annotation_type_highlight">螢光標示</string>
+    <string name="pspdf__annotation_type_ink">墨水</string>
+    <string name="pspdf__annotation_type_line">線條</string>
+    <string name="pspdf__annotation_type_link">連結</string>
+    <string name="pspdf__annotation_type_note">備忘</string>
+    <string name="pspdf__annotation_type_polygon">多邊形</string>
+    <string name="pspdf__annotation_type_polyline">多點線</string>
+    <string name="pspdf__annotation_type_redaction">修訂</string>
+    <string name="pspdf__annotation_type_rich_media">富媒體</string>
+    <string name="pspdf__annotation_type_screen">螢幕</string>
+    <string name="pspdf__annotation_type_sound">音效</string>
+    <string name="pspdf__annotation_type_square">長方形</string>
+    <string name="pspdf__annotation_type_squiggly">波浪線</string>
+    <string name="pspdf__annotation_type_stamp">印章</string>
+    <string name="pspdf__annotation_type_strikeout">刪除線</string>
+    <string name="pspdf__annotation_type_underline">底線</string>
+    <string name="pspdf__annotations">註解</string>
+    <string name="pspdf__bookmarks">書籤</string>
+    <string name="pspdf__cancel">取消</string>
+    <string name="pspdf__certificate">證書</string>
+    <string name="pspdf__close">關閉</string>
+    <string name="pspdf__color_blue">藍色</string>
+    <string name="pspdf__color_green">綠色</string>
+    <string name="pspdf__color_orange">橙色</string>
+    <string name="pspdf__color_pink">粉紅色</string>
+    <string name="pspdf__color_red">紅色</string>
+    <string name="pspdf__color_yellow">黃色</string>
+    <string name="pspdf__copy">複製</string>
+    <string name="pspdf__create_link">創建鏈結</string>
+    <string name="pspdf__create_stamp">自訂印章</string>
+    <string name="pspdf__current_page">當前頁面（%1$d）</string>
+    <string name="pspdf__custom_stamp">自定</string>
+    <string name="pspdf__custom_value">自選值</string>
+    <string name="pspdf__custom_value_hint">鍵入數值，或從清單中選擇</string>
+    <string name="pspdf__cut">剪下</string>
+    <string name="pspdf__date_switch">日期</string>
+    <string name="pspdf__default_values">預設值</string>
+    <string name="pspdf__delete">刪除</string>
+    <string name="pspdf__delete_comment">刪除評註</string>
+    <string name="pspdf__delete_pages">刪除頁面</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_invalid">證書鏈無效。</string>
+    <string name="pspdf__digital_signature_error_certificate_chain_not_provided">因未提供可信密鑰，無法驗證證書鏈。</string>
+    <string name="pspdf__digital_signature_error_integrity_check">試圖確認文件完整性時發生一般性失敗。</string>
+    <string name="pspdf__digital_signature_error_validation_failed">簽名驗證失敗 - 無效的簽名</string>
+    <string name="pspdf__digital_signature_explanation_invalid">簽名無效：此文件簽署後，曾被更改、篡改或遭破壞。</string>
+    <string name="pspdf__digital_signature_explanation_valid_modified">此簽名涵蓋的修改未被更改，但自簽署以來，文件已被修改。</string>
+    <string name="pspdf__digital_signature_explanation_valid_not_modified">簽名有效，且此文件的內容自簽署後未被更改。</string>
+    <string name="pspdf__digital_signature_integrity_self_signed">文件完整性成功，但證書是自簽的。</string>
+    <string name="pspdf__digital_signature_invalid">簽署無效</string>
+    <string name="pspdf__digital_signature_sign">簽名</string>
+    <string name="pspdf__digital_signature_signed">已簽署</string>
+    <string name="pspdf__digital_signature_signed_by">{}數位簽名</string>
+    <string name="pspdf__digital_signature_signed_date">日期：</string>
+    <string name="pspdf__digital_signature_signed_location">地點：</string>
+    <string name="pspdf__digital_signature_signed_reason">事由：</string>
+    <string name="pspdf__digital_signature_signed_with_name">%1$s 於 %2$s %3$s 簽署。</string>
+    <string name="pspdf__digital_signature_signed_with_name_invalid">它似乎由%1$s在%2$s %3$s 簽署。</string>
+    <string name="pspdf__digital_signature_signed_without_name">在%1$s %2$s簽署。</string>
+    <string name="pspdf__digital_signature_signed_without_name_invalid">它似乎是在%1$s %2$s簽署。</string>
+    <string name="pspdf__digital_signature_valid">簽名有效</string>
+    <string name="pspdf__digital_signature_valid_warnings">簽名有效，但有數項警告。</string>
+    <string name="pspdf__document_could_not_be_saved">未能儲存此文件。</string>
+    <string name="pspdf__document_info">文件資訊</string>
+    <string name="pspdf__document_info_author">作者</string>
+    <string name="pspdf__document_info_changes">變更</string>
+    <string name="pspdf__document_info_content">內容</string>
+    <string name="pspdf__document_info_content_creator">內容創作者</string>
+    <string name="pspdf__document_info_creation_date">建立於</string>
+    <string name="pspdf__document_info_file_size">檔案大小</string>
+    <string name="pspdf__document_info_keywords">關鍵字</string>
+    <string name="pspdf__document_info_mod_date">修改於</string>
+    <string name="pspdf__document_info_not_set">未設定</string>
+    <string name="pspdf__document_info_number_pf_pages">頁面數</string>
+    <string name="pspdf__document_info_producer">PDF 製作程式</string>
+    <string name="pspdf__document_info_subject">主旨</string>
+    <string name="pspdf__document_info_title">標題</string>
+    <string name="pspdf__document_name">文件名稱</string>
+    <string name="pspdf__done">完成</string>
+    <string name="pspdf__duplicate_pages">複製頁面</string>
+    <string name="pspdf__edit">編輯</string>
+    <string name="pspdf__edit_menu_callout">重點</string>
+    <string name="pspdf__edit_menu_color">顏色</string>
+    <string name="pspdf__edit_menu_fill_color">填充顏色</string>
+    <string name="pspdf__edit_menu_freetext">文字</string>
+    <string name="pspdf__edit_menu_highlight">螢光標示</string>
+    <string name="pspdf__edit_menu_ink">墨水</string>
+    <string name="pspdf__edit_menu_note">備忘</string>
+    <string name="pspdf__edit_menu_outline_color">輪廓顏色</string>
+    <string name="pspdf__edit_menu_overlay_text">疊加文字</string>
+    <string name="pspdf__edit_menu_repeat_overlay_text">重複文字</string>
+    <string name="pspdf__edit_menu_squiggly">波浪線</string>
+    <string name="pspdf__edit_menu_strikeout">刪除線</string>
+    <string name="pspdf__edit_menu_text_color">文字色彩</string>
+    <string name="pspdf__edit_menu_underline">底線</string>
+    <string name="pspdf__export_pages">輸出頁面</string>
+    <string name="pspdf__exporting">正在輸出…</string>
+    <string name="pspdf__file_not_available">嘗試打開這個檔案時，出現了不明錯誤。</string>
+    <string name="pspdf__forms_clear_field">刪除</string>
+    <string name="pspdf__fragment_password_hint">請鍵入密碼。</string>
+    <string name="pspdf__gallery_item_img_desc">影像</string>
+    <string name="pspdf__hint_add_your_comment">添加評註…</string>
+    <string name="pspdf__import_document">匯入文件</string>
+    <string name="pspdf__invalid_date_time">無效的日期/時間：請確認該日期/時間存在。[%1$s]欄必須符合%2$s格式</string>
+    <string name="pspdf__invalid_value">無效值 [%1$s]</string>
+    <string name="pspdf__invalid_value_format">輸入的值不符合[%1$s]欄的格式</string>
+    <string name="pspdf__invalid_value_greater_than_and_less_than">無效值：必需至少為%1$s，至大為%2$s。</string>
+    <string name="pspdf__invalid_value_greater_than_or_equal">無效數值：必需至少為 %1$s。</string>
+    <string name="pspdf__invalid_value_less_than_or_equal">無效值：必需為%1$s或更小。</string>
+    <string name="pspdf__landscape">橫向</string>
+    <string name="pspdf__link_annotation_creation_failed">建立註釋連結失敗。</string>
+    <string name="pspdf__link_annotation_creation_parsed_text_error">無法將所輸入的文字轉換成 Integer 或 URL。</string>
+    <string name="pspdf__link_annotation_successfully_created">已成功建立註釋連結。</string>
+    <string name="pspdf__link_destination">連結目的地</string>
+    <string name="pspdf__link_enter_page_index_or_url">鍵入頁面目錄或http:// 地址來加入鏈結。</string>
+    <string name="pspdf__link_page_not_found">找不到第%1$s頁</string>
+    <string name="pspdf__loading">正在載入</string>
+    <string name="pspdf__more_options">更多選項</string>
+    <string name="pspdf__name">名字</string>
+    <string name="pspdf__no_annotations">沒有註解</string>
+    <string name="pspdf__no_applications_found">沒有安裝可以打開 PDF 檔案的應用程序。</string>
+    <string name="pspdf__no_bookmarks">無書籤</string>
+    <string name="pspdf__no_signatures">無簽署</string>
+    <string name="pspdf__note_icon_checkmark">打勾</string>
+    <string name="pspdf__note_icon_circle">圓圈</string>
+    <string name="pspdf__note_icon_comment">評註</string>
+    <string name="pspdf__note_icon_cross">叉號</string>
+    <string name="pspdf__note_icon_help">輔助說明</string>
+    <string name="pspdf__note_icon_insert_text">插入文字</string>
+    <string name="pspdf__note_icon_key">鑰匙</string>
+    <string name="pspdf__note_icon_new_paragraph">新段落</string>
+    <string name="pspdf__note_icon_paragraph">段落</string>
+    <string name="pspdf__note_icon_right_arrow">右箭頭</string>
+    <string name="pspdf__note_icon_right_pointer">右指針</string>
+    <string name="pspdf__note_icon_star">星號</string>
+    <string name="pspdf__note_icon_text_note">文字筆記</string>
+    <string name="pspdf__ok">好</string>
+    <string name="pspdf__open">打開</string>
+    <string name="pspdf__open_settings">開啟設定</string>
+    <string name="pspdf__orientation">方向</string>
+    <string name="pspdf__page_overlay">%1$d／%2$d頁</string>
+    <string name="pspdf__page_overlay_double_page">第%1$d至%2$d頁（全%3$d頁）</string>
+    <string name="pspdf__page_overlay_with_label">%1$s（%2$d／%3$d）</string>
+    <string name="pspdf__page_pattern_dot_5mm">點：5毫米</string>
+    <string name="pspdf__page_pattern_grid_5mm">格子：5毫米</string>
+    <string name="pspdf__page_pattern_line_5mm">線條：5毫米</string>
+    <string name="pspdf__page_pattern_line_7mm">線條：7毫米</string>
+    <string name="pspdf__page_pattern_none">無</string>
+    <string name="pspdf__page_range">範圍</string>
+    <string name="pspdf__page_size_a4">A4</string>
+    <string name="pspdf__page_size_a5">A5</string>
+    <string name="pspdf__page_size_us_legal">US Legal</string>
+    <string name="pspdf__page_size_us_letter">US Letter</string>
+    <string name="pspdf__page_with_number">第%1$d頁</string>
+    <string name="pspdf__pages">頁面</string>
+    <string name="pspdf__password">密碼</string>
+    <string name="pspdf__paste">貼上</string>
+    <string name="pspdf__permission_rationale_local_access_denied_permanently">您似乎永久拒絕本應用程式存取系統檔案。您必須從應用程式設定頁面中，手動允許存取系統檔案，才能查看與開啟儲存在您的裝置中的 PDF 檔案。</string>
+    <string name="pspdf__picker_font">字體</string>
+    <string name="pspdf__picker_line_end">線條終端</string>
+    <string name="pspdf__picker_line_ends_fill_color">起始與結束顏色</string>
+    <string name="pspdf__picker_line_start">線條開始</string>
+    <string name="pspdf__picker_line_style">線條樣式</string>
+    <string name="pspdf__picker_opacity">不透明度</string>
+    <string name="pspdf__picker_thickness">粗細</string>
+    <string name="pspdf__portrait">縱向</string>
+    <string name="pspdf__print">列印</string>
+    <string name="pspdf__print_with_annotations">連同註釋打印</string>
+    <string name="pspdf__print_without_annotations">打印文件（不包括註釋）</string>
+    <string name="pspdf__prompt_delete_annotation">您是否確定要刪除這則註釋？</string>
+    <string name="pspdf__redaction_apply_dialog_failed">無法修訂這個文件。</string>
+    <string name="pspdf__redaction_apply_dialog_message">套用修訂會永久移除該資訊，這項動作無法撤銷。</string>
+    <string name="pspdf__redaction_apply_dialog_new_file">儲存到新檔案</string>
+    <string name="pspdf__redaction_apply_dialog_overwrite_file">修訂當前文件</string>
+    <string name="pspdf__redaction_apply_redactions">套用修訂</string>
+    <string name="pspdf__redaction_clear_redactions">清除修訂</string>
+    <string name="pspdf__redaction_disable_preview">取消修訂預覽</string>
+    <string name="pspdf__redaction_enable_preview">啟用修訂預覽</string>
+    <string name="pspdf__redaction_redact">修訂</string>
+    <string name="pspdf__redaction_redacting">正在修訂…</string>
+    <string name="pspdf__redo">重作</string>
+    <string name="pspdf__remove">刪除</string>
+    <string name="pspdf__reply_accepted_by">接受人：</string>
+    <string name="pspdf__reply_cancelled_by">取消人：</string>
+    <string name="pspdf__reply_completed_by">完成人：</string>
+    <string name="pspdf__reply_rejected_by">拒絕人：</string>
+    <string name="pspdf__reply_status_accepted">已收到</string>
+    <string name="pspdf__reply_status_cancelled">已取消</string>
+    <string name="pspdf__reply_status_completed">已完成</string>
+    <string name="pspdf__reply_status_none">無</string>
+    <string name="pspdf__reply_status_rejected">被拒絕</string>
+    <string name="pspdf__rotate_pages">旋轉頁面</string>
+    <string name="pspdf__sample">樣本</string>
+    <string name="pspdf__save">儲存</string>
+    <string name="pspdf__save_as">儲存為…</string>
+    <string name="pspdf__saving">正在儲存…</string>
+    <string name="pspdf__search_btn_next">下一步</string>
+    <string name="pspdf__search_btn_previous">上一個</string>
+    <string name="pspdf__search_complete">搜尋完畢</string>
+    <string name="pspdf__search_hint">搜尋</string>
+    <string name="pspdf__search_no_matches">找不到配對</string>
+    <string name="pspdf__search_outline_hint">搜尋大綱</string>
+    <string name="pspdf__search_result_of">%1$d／%2$d頁</string>
+    <string name="pspdf__set_reply_status">設置狀態</string>
+    <string name="pspdf__settings_menu_auto">自動</string>
+    <string name="pspdf__settings_menu_continuous">連續</string>
+    <string name="pspdf__settings_menu_default">預設</string>
+    <string name="pspdf__settings_menu_double">雙頁</string>
+    <string name="pspdf__settings_menu_horizontal">橫式</string>
+    <string name="pspdf__settings_menu_jump">跳換</string>
+    <string name="pspdf__settings_menu_keep_screen_on">避免螢幕進入待命狀態</string>
+    <string name="pspdf__settings_menu_night">暗色</string>
+    <string name="pspdf__settings_menu_page_layout">頁面排版</string>
+    <string name="pspdf__settings_menu_page_transition">翻頁</string>
+    <string name="pspdf__settings_menu_scroll_direction">捲動方向</string>
+    <string name="pspdf__settings_menu_single">單頁</string>
+    <string name="pspdf__settings_menu_theme">主題</string>
+    <string name="pspdf__settings_menu_vertical">直式</string>
+    <string name="pspdf__share">分享</string>
+    <string name="pspdf__sign">簽名</string>
+    <string name="pspdf__signature">簽名</string>
+    <string name="pspdf__signature_sign_here">請簽署</string>
+    <string name="pspdf__signatures">簽名檔</string>
+    <string name="pspdf__size">大小</string>
+    <string name="pspdf__stamp_accepted">已收到</string>
+    <string name="pspdf__stamp_approved">已批准</string>
+    <string name="pspdf__stamp_as_is">按現狀</string>
+    <string name="pspdf__stamp_completed">已完成</string>
+    <string name="pspdf__stamp_confidential">密件</string>
+    <string name="pspdf__stamp_departmental">分科</string>
+    <string name="pspdf__stamp_draft">草稿</string>
+    <string name="pspdf__stamp_experimental">實驗性</string>
+    <string name="pspdf__stamp_expired">已過期</string>
+    <string name="pspdf__stamp_final">終稿</string>
+    <string name="pspdf__stamp_for_comment">供評註</string>
+    <string name="pspdf__stamp_for_public_release">可公佈</string>
+    <string name="pspdf__stamp_information_only">僅供參考</string>
+    <string name="pspdf__stamp_initial_here">這裏草簽</string>
+    <string name="pspdf__stamp_not_approved">未批准</string>
+    <string name="pspdf__stamp_not_for_public_release">不可公佈</string>
+    <string name="pspdf__stamp_preliminary_results">初步結果</string>
+    <string name="pspdf__stamp_rejected">被拒絕</string>
+    <string name="pspdf__stamp_revised">已修訂</string>
+    <string name="pspdf__stamp_sign_here">在此簽名</string>
+    <string name="pspdf__stamp_sold">售出</string>
+    <string name="pspdf__stamp_text">印章文字</string>
+    <string name="pspdf__stamp_top_secret">高度機密</string>
+    <string name="pspdf__stamp_void">失效</string>
+    <string name="pspdf__stamp_witness">證人</string>
+    <string name="pspdf__store_signature">儲存簽名</string>
+    <string name="pspdf__text_copied_to_clipboard">文字已複製到剪貼簿。</string>
+    <string name="pspdf__time_switch">時間</string>
+    <string name="pspdf__tts_not_available">現在不能使用文字轉語音功能。請檢查你的互聯網已連線，或你的裝置中已安裝 Google 的文字轉語音功能，並且它在開啟狀態。</string>
+    <string name="pspdf__undo">還原</string>
+    <string name="pspdf__unit_pt">%1$s 級字</string>
+    <string name="pspdf__unnamed_image_document">未命名的圖檔</string>
+    <string name="pspdf__use_document_size">使用文件尺寸</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
